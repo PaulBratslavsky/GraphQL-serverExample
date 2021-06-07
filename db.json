@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": "23", "firstName": "Paul", "age": 40, "companyId": "1" },
+    { "id": "47", "firstName": "Ariya", "age": 30, "companyId": "2" },
+    { "id": "33", "firstName": "Bob", "age": 30, "companyId": "1" }
+  ],
+  "companies": [
+    { "id": "1", "name": "Apple", "description": "Iphone" },
+    { "id": "2", "name": "Bertuccis", "description": "Brick oven pizza" }
+  ]
+}
